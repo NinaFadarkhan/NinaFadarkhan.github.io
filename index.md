@@ -27,13 +27,6 @@ description: |
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 />
 
-<!-- Buttons -->
-<p style="text-align: center; margin-bottom: 1em;">
-  <a href="https://ninafadarkhan.github.io/Papers/" target="_blank" rel="noopener">Papers</a>
-  <a href="https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Helbling/CV_osenbruegge.pdf" target="_blank" rel="noopener">CV</a>
-  <a href="https://ninafadarkhan.github.io/Teaching/" target="_blank" rel="noopener">Teaching</a>
-</p>
-
 <!-- Icons -->
 <p style="text-align: center; margin-top: 1em;">
   <a href="https://scholar.google.com/citations?user=ew2mB50AAAAJ&hl=en" target="_blank" title="Google Scholar">
