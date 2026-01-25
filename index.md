@@ -21,18 +21,31 @@ description: |
   </a>
 ---
 
-  <!-- Icon row -->
+  <!-- Font Awesome -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+<!-- Buttons -->
+<p style="text-align: center; margin-bottom: 1em;">
+  <a href="https://ninafadarkhan.github.io/Papers/" target="_blank" rel="noopener">Papers</a>
+  <a href="https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Helbling/CV_osenbruegge.pdf" target="_blank" rel="noopener">CV</a>
+  <a href="https://ninafadarkhan.github.io/Teaching/" target="_blank" rel="noopener">Teaching</a>
+</p>
+
+<!-- Icons -->
 <p style="text-align: center; margin-top: 1em;">
-  <a href="https://scholar.google.com/citations?user=ew2mB50AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=ew2mB50AAAAJ&hl=en" target="_blank" title="Google Scholar">
     <i class="fas fa-graduation-cap" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
-  <a href="https://orcid.org/0009-0008-8330-6027" target="_blank" rel="noopener" title="ORCID">
+  <a href="https://orcid.org/0009-0008-8330-6027" target="_blank" title="ORCID">
     <i class="fab fa-orcid" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
-  <a href="https://github.com/NinaFadarkhan" target="_blank" rel="noopener" title="GitHub">
+  <a href="https://github.com/NinaFadarkhan" target="_blank" title="GitHub">
     <i class="fab fa-github" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
-  <a href="https://www.linkedin.com/in/nina-fadarkhan-osenbr%C3%BCgge-2989b01a3/?locale=en_US" target="_blank" rel="noopener" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/nina-fadarkhan-osenbr%C3%BCgge-2989b01a3" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
 </p>
