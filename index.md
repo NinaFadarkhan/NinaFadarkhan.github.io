@@ -7,7 +7,7 @@ description: |
   <a href="https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Helbling/CV_osenbruegge.pdf" class="btn" target="_blank" rel="noopener">CV</a>
   <a href="https://ninafadarkhan.github.io/Teaching/" class="btn" target="_blank" rel="noopener">Teaching</a>
 ---
-
+# Welcome!
   <!-- Icon row -->
 <p style="text-align: center; margin-top: 1em;">
   <a href="https://scholar.google.com/citations?user=ew2mB50AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
@@ -23,8 +23,6 @@ description: |
     <i class="fab fa-linkedin" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
 </p>
-
-# Welcome!
 
 I am a sociologist with a strong focus on political sociology, currently a Ph.D. candidate at the University of Mannheim and a member of the Graduate School of Economic and Social Sciences (GESS). My research sits at the intersection of political behavior, extremism, and social psychology, with a particular emphasis on how extremist and radical attitudes are formed, expressed, and measured. I am especially interested in the often-overlooked role of social desirability and measurement bias in research on political and religious extremism, and in how attitudes relate to real-world behaviors such as extremist violence.
 
