@@ -3,7 +3,8 @@ title: Nina Fadarkhan Osenbrügge
 description: |
   Sociologist · Political Sociology · Extremism & Radicalization  
   <br><br>
-  <a href="https://ninafadarkhan.github.io/Papers/" class="btn" target="_blank" rel="noopener">Papers</a>
+  <a href="https://ninafadarkhan.github.io/" class="btn" target="_blank" rel="noopener">Home</a>
+  <a href="https://ninafadarkhan.github.io/Papers/" class="btn" target="_blank" rel="noopener">Research</a>
   <a href="https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Helbling/CV_osenbruegge.pdf" class="btn" target="_blank" rel="noopener">CV</a>
   <a href="https://ninafadarkhan.github.io/Teaching/" class="btn" target="_blank" rel="noopener">Teaching</a>
   <br><br>
