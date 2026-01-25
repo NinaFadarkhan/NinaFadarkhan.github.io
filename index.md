@@ -21,7 +21,7 @@ description: |
   </a>
 ---
 
-  <!-- Icon row 
+  <!-- Icon row -->
 <p style="text-align: center; margin-top: 1em;">
   <a href="https://scholar.google.com/citations?user=ew2mB50AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
     <i class="fas fa-graduation-cap" style="font-size: 24px; margin: 0 10px;"></i>
@@ -35,7 +35,7 @@ description: |
   <a href="https://www.linkedin.com/in/nina-fadarkhan-osenbr%C3%BCgge-2989b01a3/?locale=en_US" target="_blank" rel="noopener" title="LinkedIn">
     <i class="fab fa-linkedin" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
-</p>-->
+</p>
 
 # Welcome!
 
