@@ -10,15 +10,9 @@ description: Sociologist · Political Sociology · Extremism & Radicalization
   <a href="https://ninafadarkhan.github.io/Teaching/" class="button" target="_blank" rel="noopener">Teaching</a>
 </p>
 
-# Nina Fadarkhan Osenbrügge
+# Welcome!
 
-<p>
-  <a href="https://ninafadarkhan.github.io/Papers/" class="button" target="_blank" rel="noopener">
-    Papers
-  </a>
-</p>
-
-Welcome! I am a sociologist with a strong focus on political sociology, currently a Ph.D. candidate at the University of Mannheim and a member of the Graduate School of Economic and Social Sciences (GESS). My research sits at the intersection of political behavior, extremism, and social psychology, with a particular emphasis on how extremist and radical attitudes are formed, expressed, and measured. I am especially interested in the often-overlooked role of social desirability and measurement bias in research on political and religious extremism, and in how attitudes relate to real-world behaviors such as extremist violence.
+I am a sociologist with a strong focus on political sociology, currently a Ph.D. candidate at the University of Mannheim and a member of the Graduate School of Economic and Social Sciences (GESS). My research sits at the intersection of political behavior, extremism, and social psychology, with a particular emphasis on how extremist and radical attitudes are formed, expressed, and measured. I am especially interested in the often-overlooked role of social desirability and measurement bias in research on political and religious extremism, and in how attitudes relate to real-world behaviors such as extremist violence.
 
 My doctoral project, supervised by Prof. Marc Helbling at the Chair of Migration and Integration, examines extremist and radical attitudes across different social contexts, combining survey methods, experiments, and advanced quantitative analyses. Alongside my Ph.D., I work as academic staff at the Mannheim Centre for European Social Research (MZES) in a DFG-funded project on explicit and implicit extremist attitudes. My work has been presented at international conferences, including the European Political Science Association and the Rebecca B. Morton Experimental Political Science Conference at NYU.
 
