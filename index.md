@@ -35,8 +35,8 @@ description: |
   alt="Nina Fadarkhan Osenbrügge"
   style="
     float: right;
-    width: 180px;
-    height: 180px;
+    width: 240px;
+    height: 240px;
     border-radius: 50%;
     margin: 0 0 1em 1.5em;
     object-fit: cover;
