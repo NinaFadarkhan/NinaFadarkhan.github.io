@@ -6,6 +6,7 @@ description: |
   <a href="https://ninafadarkhan.github.io/Papers/" class="btn" target="_blank" rel="noopener">Papers</a>
   <a href="https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Helbling/CV_osenbruegge.pdf" class="btn" target="_blank" rel="noopener">CV</a>
   <a href="https://ninafadarkhan.github.io/Teaching/" class="btn" target="_blank" rel="noopener">Teaching</a>
+---
 
   <!-- Icon row -->
 <p style="text-align: center; margin-top: 1em;">
@@ -22,7 +23,6 @@ description: |
     <i class="fab fa-linkedin" style="font-size: 24px; margin: 0 10px;"></i>
   </a>
 </p>
----
 
 # Welcome!
 
