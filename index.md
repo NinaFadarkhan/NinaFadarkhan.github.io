@@ -20,6 +20,8 @@ description: |
   <a href="https://www.linkedin.com/in/nina-fadarkhan-osenbr%C3%BCgge-2989b01a3/?locale=en_US" target="_blank" rel="noopener" title="LinkedIn">
   <i class="fab fa-linkedin" style="font-size: 24px; margin: 0 10px; color: white;"></i>
   </a>
+  <br><br>
+  <a href="mailto:nina.fadarkhan@gmail.com" style="color:white;">Email me</a>
 ---
 
   <!-- Font Awesome -->
