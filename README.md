@@ -1,7 +1,7 @@
 # Nina Fadarkhan Osenbrügge
 
 <p>
-  <a href="https://ninafadarkhan.github.io/Papers/" class="button">
+  <a href="https://ninafadarkhan.github.io/Papers/" class="button" target="_blank" rel="noopener">
     Papers
   </a>
 </p>
